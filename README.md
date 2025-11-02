@@ -1,2 +1,4 @@
-# Notmiun-Browser-Android-BetaVersion
-Beta has newer feature before stable version released
+# BETA HAS RENAMED INTO NIGHTLY
+Beta version has changed into Nightly build
+-----------------------------------------------------
+Similar to Beta but it can update in ever night
